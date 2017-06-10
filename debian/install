@@ -1,0 +1,3 @@
+debian/extra/docfx /usr/bin/
+docfx* /usr/share/docfx/
+*.dll /usr/share/docfx/
